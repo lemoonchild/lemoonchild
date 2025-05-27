@@ -1,7 +1,7 @@
 ![Presentación Proyecto Creativo Moderno Azul (1)](https://github.com/user-attachments/assets/2d9b4029-73a0-4261-8e89-0c825350b46a)
 
 ## 💫 ᴀʙᴏᴜᴛ ᴍᴇ:
-Better known as lemoonchild ✨, a passionate **Computer Science and Information Technology Engineering student at Universidad del Valle de Guatemala (UVG)**, currently in my third year (6th semester). With a fascination for interface design and strategy games, I have immersed myself in the world of **web programming**.
+Better known as lemoonchild ✨, a passionate **Computer Science and Information Technology Engineering student at Universidad del Valle de Guatemala (UVG)**, currently in my fourth year (8th semester). With a fascination for interface design and strategy games, I have immersed myself in the world of **web programming**.
 
 I take pride in my ability to create intuitive and functional interfaces, _guided by the belief that a good interface shouldn't raise questions_. My passion lies in **Frontend Development and UI/UX Design**, where I focus on solving real-world problems and enhancing user experiences.
 
