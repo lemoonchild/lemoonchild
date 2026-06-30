@@ -37,22 +37,4 @@ In addition to my commitment to technological development, I'm also an enthusias
     <td><img src="https://github-readme-stats.vercel.app/api?username=lemoonchild&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=lemoonchild&theme=dark&hide_border=false" alt="GitHub Streak"></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemoonchild&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
-  </tr>
 </table>
-
-## 🏆 ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ ​🇹​​🇷​​🇴​​🇵​​🇭​​🇮​​🇪​​🇸​:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lemoonchild&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
-## 🔝 ​🇹​​🇴​​🇵​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇪​​🇩​ ​🇷​​🇪​​🇵​​🇴​
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=lemoonchild&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=lemoonchild&icon=5&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
